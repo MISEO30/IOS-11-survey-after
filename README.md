@@ -1,1 +1,3 @@
-# IOS-11-internet-survey-
+# IOS-11-internet-survey-실험 사후 조사
+
+This tool is an interactive version of the IOS11 scale, developed based on the paper: Introducing IOS11 as an extended interactive version of the 'Baader, M., Starmer, C., Tufano, F., & Gächter, S. (2024). Introducing IOS11 as an extended interactive version of the ‘Inclusion of Other in the Self’scale to estimate relationship closeness. Scientific Reports, 14(1), 8901.' This software is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You can view a copy of this license at http://creativecommons.org/licenses/by/4.0/. The original IOS11 software and data are available via the Open Science Framework (https://doi.org/10.17605/OSF.IO/9DBR6)
